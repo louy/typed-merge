@@ -1,0 +1,7 @@
+{
+  "name": "merge",
+  "main": "index.d.ts",
+  "author": "Louay Alakkad <louay@alakkad.me>",
+  "version": "1.2.0",
+  "dependencies": {}
+}
